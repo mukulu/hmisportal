@@ -1,8 +1,8 @@
 {
-    "name": "each-portal",
+    "name": "portal",
     "version": "0.0.1",
     "authors": [
-        "Morten Olav Hansen <mortenoh@gmail.com>"
+        "John Francis Mukulu <john.f.mukulu@gmail.com>"
     ],
     "license": "MIT",
     "private": true,
