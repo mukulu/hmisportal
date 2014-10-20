@@ -1,0 +1,25 @@
+{
+    "name": "each-portal",
+    "version": "0.0.1",
+    "authors": [
+        "Morten Olav Hansen <mortenoh@gmail.com>"
+    ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "2.0.x",
+        "bootstrap": "3.2.x",
+        "font-awesome": "4.2.x",
+        "angular": "1.2.x",
+        "angular-route": "1.2.x",
+        "angular-resource": "1.2.x",
+        "angular-animate": "1.2.x"
+    }
+}
