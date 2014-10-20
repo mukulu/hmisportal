@@ -1,7 +1,7 @@
 "use strict";
 
 !(function() {
-    var app = angular.module('portal-app', ['ngRoute']);
+    var app = angular.module('eac-app', ['ngRoute']);
 
     app.config(function( $routeProvider, $locationProvider ) {
         $routeProvider.when('/dashboard', {
