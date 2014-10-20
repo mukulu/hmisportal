@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>EAC Data Warehouse</title>
+    <title>HMIS Web portal</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -25,16 +25,18 @@
 <nav class="navbar navbar-default navbar-fixed-top" ng-controller="NavCtrl">
     <div class="container">
         <div class="navbar-header">
-            <a class="navbar-brand" style="color: white;" href="#">HMIS Data Warehouse</a>
+            <a class="navbar-brand" style="color: white;" href="#">HMIS Webportal</a>
         </div>
         
 
 
         <ul class="nav navbar-nav">
-            <li ng-class="{ active: isActive('/page1') }"><a href="#page1">Overview</a></li>
-            <li ng-class="{ active: isActive('/page2') }"><a href="#page2">ANC</a></li>
-            <li ng-class="{ active: isActive('/page3') }"><a href="#page3">Delivery</a></li>
-            <li ng-class="{ active: isActive('/page4') }"><a href="#page4">Immunisation</a></li>
+            <li ng-class="{ active: isActive('/dashboard') }"><a href="#dashboard">Dashboard</a></li>
+            <li ng-class="{ active: isActive('/antenatalcare') }"><a href="#antenatalcare">Antenatal Care</a></li>
+            <li ng-class="{ active: isActive('/delivery') }"><a href="#delivery">Delivery</a></li>
+            <li ng-class="{ active: isActive('/familyplanning') }"><a href="#familyplanning">Family Planning</a></li>
+            <li ng-class="{ active: isActive('/immunization') }"><a href="#immunization">Immunisation</a></li>
+            <li ng-class="{ active: isActive('/hivaids') }"><a href="#hivaids">HIV/AIDS</a></li>
         </ul>
 
         <p class="navbar-text navbar-right"><a href="http://hmis.eac.int" target="_blank" class="navbar-link">Sign into DHIS2</a></p>

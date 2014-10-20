@@ -4,21 +4,26 @@
     var app = angular.module('eac-app', ['ngRoute']);
 
     app.config(function( $routeProvider, $locationProvider ) {
-        $routeProvider.when('/page1', {
-            templateUrl: 'fragments/page1.html'
+        $routeProvider.when('/dashboard', {
+            templateUrl: 'fragments/dashboard.html'
         });
-
-        $routeProvider.when('/page2', {
-            templateUrl: 'fragments/page2.html'
+        $routeProvider.when('/antenatalcare', {
+            templateUrl: 'fragments/antenatalcare.html'
         });
-        $routeProvider.when('/page3', {
-            templateUrl: 'fragments/page3.html'
+        $routeProvider.when('/delivery', {
+            templateUrl: 'fragments/delivery.html'
         });
-        $routeProvider.when('/page4', {
-            templateUrl: 'fragments/page4.html'
+        $routeProvider.when('/familyplanning', {
+            templateUrl: 'fragments/familyplanning.html'
+        });
+        $routeProvider.when('/immunization', {
+            templateUrl: 'fragments/immunization.html'
+        });
+        $routeProvider.when('/hivaids', {
+            templateUrl: 'fragments/hivaids.html'
         });
         $routeProvider.otherwise({
-            redirectTo: '/page1'
+            redirectTo: '/dashboard'
         });
     });
 
