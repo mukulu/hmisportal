@@ -342,9 +342,8 @@ p.codrops-demos a.current-demo:hover{
 #content {
     background: #fff;
     padding: 2em;
-    height: 500px;
     position: relative;
-    z-index: 2;	
+    z-index: 2;
     -moz-border-radius: 0 5px 5px 5px;
     -webkit-border-radius: 0 5px 5px 5px;
     border-radius: 0 5px 5px 5px;
