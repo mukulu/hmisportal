@@ -34,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="immunization.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="immunization.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fragments/immunization.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="124" column="6" selection-start="4625" selection-end="4625" vertical-scroll-proportion="0.74825174" vertical-offset="1911" max-vertical-offset="2340">
+            <state line="95" column="64" selection-start="3617" selection-end="3626" vertical-scroll-proportion="-2.5555556" vertical-offset="1641" max-vertical-offset="2340">
               <folding />
             </state>
           </provider>
@@ -46,7 +46,7 @@
       <file leaf-file-name="dashboard.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fragments/dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="28" selection-start="5094" selection-end="5776" vertical-scroll-proportion="-0.7037037" vertical-offset="917" max-vertical-offset="2412">
+            <state line="134" column="105" selection-start="6914" selection-end="6914" vertical-scroll-proportion="-6.5555553" vertical-offset="1443" max-vertical-offset="2412">
               <folding>
                 <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
                 <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
@@ -54,10 +54,18 @@
                 <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
                 <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
                 <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="familyplanning.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fragments/familyplanning.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="43" selection-start="1758" selection-end="1758" vertical-scroll-proportion="0.65158373" vertical-offset="540" max-vertical-offset="1044">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -106,10 +114,11 @@
         <option value="$PROJECT_DIR$/js/eac.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/fragments/dashboard.html" />
         <option value="$PROJECT_DIR$/fragments/antenatalcare.html" />
         <option value="$PROJECT_DIR$/fragments/delivery.html" />
         <option value="$PROJECT_DIR$/fragments/immunization.html" />
+        <option value="$PROJECT_DIR$/fragments/dashboard.html" />
+        <option value="$PROJECT_DIR$/fragments/familyplanning.html" />
       </list>
     </option>
   </component>
@@ -254,7 +263,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1602" height="874" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1495507" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -264,7 +273,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928476" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928476" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -333,7 +342,6 @@
             <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
             <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
             <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
           </folding>
@@ -408,7 +416,6 @@
             <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
             <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
             <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
           </folding>
@@ -473,23 +480,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fragments/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="28" selection-start="5094" selection-end="5776" vertical-scroll-proportion="-0.7037037" vertical-offset="917" max-vertical-offset="2412">
-          <folding>
-            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
-            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
-            <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
-            <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
-            <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
-            <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fragments/antenatalcare.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="10" selection-start="768" selection-end="768" vertical-scroll-proportion="-12.666667" vertical-offset="0" max-vertical-offset="1656">
@@ -508,7 +498,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fragments/immunization.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="6" selection-start="4625" selection-end="4625" vertical-scroll-proportion="0.74825174" vertical-offset="1911" max-vertical-offset="2340">
+        <state line="95" column="64" selection-start="3617" selection-end="3626" vertical-scroll-proportion="-2.5555556" vertical-offset="1641" max-vertical-offset="2340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragments/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="134" column="105" selection-start="6914" selection-end="6914" vertical-scroll-proportion="-6.5555553" vertical-offset="1443" max-vertical-offset="2412">
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragments/familyplanning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="43" selection-start="1758" selection-end="1758" vertical-scroll-proportion="0.65158373" vertical-offset="540" max-vertical-offset="1044">
           <folding />
         </state>
       </provider>
