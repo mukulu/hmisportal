@@ -23,22 +23,6 @@
 <body style="padding-top: 105px;" ng-app="eac-app">
 
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation" ng-controller="NavCtrl">
-    <div class="container-fluid">
-        <div class="container-fluid visible-md visible-lg hidden-xs hidden-sm" style="padding: 0px">
-<div class="col-md-3" style="padding: 0px">
-    <img class="pull-left" src="image/nembo.gif" alt="..." style="height: 50px;width:50px">
-</div>
-<div class="col-md-6" style="padding: 0px">
-    <h1 class="text-center" style="margin-top: 3px;font-size: 18px;font-weight: bolder;color: #ffffff">MINISTRY OF HEALTH AND SOCIAL WELFARE</h1>
-    <h1 class="text-center" style="margin: 0px;font-size: 18px;font-weight: bolder;color: #ffffff">HIMS WEB PORTAL</h1>
-</div>
-<div class="col-md-3" style="padding: 0px">
-    <img class="pull-right" src="image/tanzania1.gif" alt="..." style="height: 50px;width:70px">
-</div>
-
-
-            </div>
-        </div>
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Toggle navigation</span>
@@ -46,19 +30,22 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand visible-sm visible-xs hidden-lg hidden-md" style="color: white; padding-top: 5px;height: 40px" href="#">HMIS Webportal</a>
+            <ul class="nav navbar-nav">
+                <li><img class="pull-right col-md-3" src="image/tanzania1.gif" alt="..." style="height: 40px;width:80px;padding-top:5px;"></li>
+            </ul>
+            <a class="navbar-brand" style="color: white;" href="#">HMIS Webportal</a>
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-        <ul class="nav navbar-nav">
-            <li ng-class="{ active: isActive('/dashboard') }"><a href="#dashboard" style="padding-top: 5px">Dashboard</a></li>
-            <li ng-class="{ active: isActive('/antenatalcare') }"><a href="#antenatalcare" style="padding-top: 5px">Antenatal Care</a></li>
-            <li ng-class="{ active: isActive('/delivery') }"><a href="#delivery" style="padding-top: 5px">Delivery</a></li>
-            <li ng-class="{ active: isActive('/familyplanning') }"><a href="#familyplanning" style="padding-top: 5px">Family Planning</a></li>
-            <li ng-class="{ active: isActive('/immunization') }"><a href="#immunization" style="padding-top: 5px">Immunisation</a></li>
-            <li ng-class="{ active: isActive('/hivaids') }"><a href="#hivaids" style="padding-top: 5px">HIV/AIDS</a></li>
-        </ul>
+            <ul class="nav navbar-nav">
+                <li ng-class="{ active: isActive('/dashboard') }"><a href="#dashboard">Dashboard</a></li>
+                <li ng-class="{ active: isActive('/antenatalcare') }"><a href="#antenatalcare">Antenatal Care</a></li>
+                <li ng-class="{ active: isActive('/delivery') }"><a href="#delivery">Delivery</a></li>
+                <li ng-class="{ active: isActive('/familyplanning') }"><a href="#familyplanning">Family Planning</a></li>
+                <li ng-class="{ active: isActive('/immunization') }"><a href="#immunization">Immunisation</a></li>
+                <li ng-class="{ active: isActive('/hivaids') }"><a href="#hivaids">HIV/AIDS</a></li>
+            </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="http://dhis.moh.go.tz/" target="_blank" class="navbar-link" style="padding-top: 5px">Sign into DHIS2</a></li>
+                <li><a href="http://dhis.moh.go.tz/" target="_blank" class="navbar-link">Sign into DHIS2</a></li>
             </ul>
         </div>
     </div>
