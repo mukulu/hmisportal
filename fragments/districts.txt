@@ -3,52 +3,52 @@
         [
             "Dar es salaam Region",
             "Ilala Municipal Council",
-            "Dar_es_salaam_Ilala_Municipal_Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Dar es salaam Region",
             "Kinondoni Municipal Council",
-            "Dar_es_salaam_Kinondoni_Municipal_Council.pdf"
+            "<a href='DHP Docs/Kinondoni_District_HealthProfiles _final.pdf' class='btn' target='_blank' >Download</a>"
         ],
         [
             "Dar es salaam Region",
             "Temeke Municipal Council",
-            "Dar_es_salaam_Temeke_Municipal_Council.pdf"
+            "<a href='DHP Docs/TEMEKE DHP August 2013.pdf' class='btn' target='_blank'>Download</a>"
         ], 
         [
             "Arusha Region",
             "Arusha City Council",
-            "Arusha_Arusha CC_Arusha City Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Arusha Region",
             "Arusha District Council",
-            "Arusha_Arusha DC_Arusha District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Arusha Region",
             "Karatu District Council",
-            "Arusha_Karatu_Karatu District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Arusha Region",
             "Longido District Council",
-            "Arusha_Longido_Longido District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Arusha Region",
             " Meru District Council ",
-            "Arusha_Meru_Meru District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Arusha Region",
             "Monduli District Council ",
-            "Arusha_Monduli_Monduli District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Arusha Region",
             "Ngorongoro District Council",
-            "Arusha_Ngorongoro_Ngorongoro District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
 
         ],
 
@@ -56,794 +56,773 @@
     [
             "Dodoma Region",
             "Bahi District Council",
-            "Dodoma_Bahi District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Dodoma Region",
             "Chamwino District Council",
-            "Dodoma_Chamwino District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Dodoma Region",
             "Chemba District Council",
-            "Dodoma_Chemba District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Dodoma Region",
             "Dodoma Municipal Council",
-            "Dodoma_Dodoma Municipal Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Dodoma Region",
             " Kondoa District Council",
-            "DodomaKondoa District Councilpdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Dodoma Region",
             "Kongwa District Council",
-            "DodomaKongwa District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Dodoma Region",
             "Mpwapwa District Council",
-            "DodomaMpwapwa District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 
 [
             "Geita Region",
             "Bukombe District Council",
-            "Geita_Bukombe District Council.pdf"
+            "<a href='DHP Docs/BUKOMBE DHP FINAL 2.pdf' class='btn' target='_blank' >Download</a>"
         ], [
             "Geita Region",
             "Chato District Council",
-            "GeitaChato District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Geita Region",
             "Geita District Council",
-            "GeitaGeita District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
-
-
-
-           [
+        [
             "Geita Region",
             "Geita Town Council",
-            "Geita_ Geita Town Council.pdf"
-        ],        [
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
+        ],       
+		[
             "Geita Region",
           "Mbogwe District Council ",
-            "Geita Mbogwe District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 	
         [
             "Geita Region",
             "Monduli District Council ",
-            "Geita_Monduli_Monduli District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ] ,[
             "Iringa Region",
             "Iringa District Council ",
-            "Iringa_ Iringa District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], [
             "Iringa Region",
             "Iringa Municipal Council ",
-            "Iringa_ Iringa Municipal Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Iringa Region",
             " Kilolo District Council ",
-            "Iringa_ Kilolo District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Iringa Region",
             "Mufindi District Council ",
-            "Iringa_Mufindi District Council.pdf"    ],
-			[
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>" 
+		],
+		[
             "Kagera Region",
             "Biharamulo District Council ",
-            "Kagera_Biharamulo District Council pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Kagera Region",
             "Bukoba District Council ",
-            "Kagera_Bukoba District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Kagera Region",
             "Karagwe District Council ",
-            "Kagera_Karagwe District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		[
             "Kagera Region",
             "Bukoba Municipal Council",
-            "Kagera_Bukoba Municipal Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ]
 		,[
             "Kagera Region",
             "Kyerwa District Council",
-            "Kagera_Kyerwa District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], [
             "Kagera Region",
             "Missenyi District Council",
-            "Kagera_Missenyi District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Kagera Region",
             "Muleba District Council",
-            "Kagera_Muleba District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Kagera Region",
             "Ngara District Council",
-            "Kagera_Ngara District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		[
             "Katavi Region",
             "Mlele District Council",
-            "Katavi_Mlele District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Katavi Region",
             "Mpanda District Council",
-            "Katavi_Mpanda District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Katavi Region",
             "Mpanda Town Council",
-            "Katavi_Mpanda Town Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "KataviRegion",
             "Nsimbo District Council",
-            "Arusha_Nsimbo District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		  [
             "Kigoma Region",
             "Buhigwe District Council",
-            "Kigoma_Buhigwe District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Kigoma Region",
             "Kakonko District Council",
-            "Kigoma_Kakonko District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Kigoma Region",
             "Kasulu District Council",
-            "Kigoma_Kasulu District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Kigoma Region",
             "Kasulu Town Council",
-            "Kigoma_Kasulu Town Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Kigoma Region",
             "Kibondo District Council",
-            "Kigoma_Kibondo District CouncilCouncil.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Kigoma Region",
             "Kigoma District Council",
-            "Kigoma_Kigoma District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Kigoma Region",
             "Kigoma Municipal Council",
-            "Kigoma_Kigoma Municipal Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Kigoma Region",
             "Uvinza District Council",
-            "Kigoma_Uvinza District CouncilCouncil.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		[
             "Kilimanjaro Region",
             "Hai District Council",
-            "Kilimanjaro_Hai District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Kilimanjaro Region",
             "Moshi District Council",
-            "Kilimanjaro_Moshi District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Kilimanjaro Region",
             "Moshi Municipal Council",
-            "Kilimanjaro_Moshi Municipal Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Kilimanjaro Region",
             "Mwanga District Council",
-            "Kilimanjaro_Mwanga District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Kilimanjaro Region",
             "Rombo District Council",
-            "Kilimanjaro_Rombo District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Kilimanjaro Region",
             "Same District Council",
-            "Kilimanjaro_Same District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Kilimanjaro Region",
             "Siha District Council",
-            "Kilimanjaro_Siha District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		[
             "Lindi Region",
             "Kilwa District Council",
-            "Lindi_Kilwa District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Lindi Region",
             "Lindi District Council",
-            "Lindi_Lindi District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Lindi Region",
             "Lindi Municipal Council",
-            "Lindi_Lindi Municipal Council.pdf"
+            "<a href='DHP Docs/LINDI MC DHP  FINAL.pdf' class='btn' target='_blank' >Download</a>"
         ], 
         [
             "Lindi Region",
             "Liwale District Council",
-            "Lindi_Liwale District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Lindi Region",
             "Nachingwea District Council",
-            "Lindi_Nachingwea District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Lindi Region",
             "Ruangwa District Council",
-            "Lindi_Ruangwa District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ]
 		,        [
             "Manyara Region",
             " Babati District Council ",
-            "Manyara_Babati District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Manyara Region",
             "Babati Town Council ",
-            "Manyara_Babati Town Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Manyara Region",
             "Hanang District Council ",
-            "Manyara_Hanang District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Manyara Region",
             "Kiteto District Council ",
-            "Manyara_Kiteto District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Manyara Region",
             "Mbulu District Council ",
-            "Manyara_Mbulu District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Manyara Region",
             "Simanjiro District Council ",
-            "Manyara_Simanjiro District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		
 		        [
             "Mara Region",
             "Bunda District Council",
-            "Mara_Bunda District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Mara Region",
             "Butiama District Council",
-            "Mara_Butiama District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Mara Region",
             "Musoma District Council",
-            "Mara_Musoma District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Mara Region",
             "Rorya District Council",
-            "Mara_Rorya District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Mara Region",
             "Serengeti District Council",
-            "Mara_Serengeti District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Mara Region",
             "Tarime District Council",
-            "Mara_Tarime District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Mara Region",
             "Tarime Town Council",
-            "Mara_Tarime Town Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		
 		[
             "Mbeya Region",
             "Busokelo District Council",
-            "Mbeya_Busokelo District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Mbeya Region",
             "Chunya District Council",
-            "Mbeya_Chunya District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Mbeya Region",
             "Ileje District Council",
-            "Mbeya_Ileje District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Mbeya Region",
             "Kyela District Council",
-            "Mbeya_Kyela District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Mbeya Region",
             "Mbarali District Council",
-            "Mbeya_Mbarali District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Mbeya Region",
             "Mbeya City Council",
-            "Mbeya_Mbeya City Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ]
-		
-		
-		
 		, 
         [
             "Mbeya Region",
             "Kyela District Council",
-            "Mbeya_Kyela District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Mbeya Region",
             "Mbozi District Council",
-            "Mbeya_Mbozi District Council"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
 		
         [
             "Mbeya Region",
             "Momba District Council",
-            "Mbeya_Momba District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Mbeya Region",
             "Rungwe District Council",
-            "Mbeya_Rungwe District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ]
        
 	   
 	   ,[
             "Morogoro Region",
             "Gairo District Council",
-            "Morogoro_Gairo District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Morogoro Region",
             "Kilombero District Council",
-            "Morogoro_Kilombero District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Morogoro Region",
             "Kilosa District Council",
-            "Morogoro_Kilosa District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Morogoro Region",
             "Morogoro District Council",
-            "Morogoro_Morogoro District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Morogoro Region",
             "Morogoro Municipal Council",
-            "Morogoro_Morogoro Municipal Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Morogoro Region",
             "Mvomero District Council",
-            "Morogoro_Mvomero District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Morogoro Region",
             "Ulanga District Council",
-            "Morogoro_Ulanga District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		[
             "Mtwara Region",
             "Masasi District Council",
-            "Mtwara_Masasi District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Mtwara Region",
             "Masasi Town Council",
-            "Mtwara_Masasi Town Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Mtwara Region",
             "Mtwara District Council",
-            "Mtwara_Mtwara District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Mtwara Region",
             "Mtwara Municipal Council",
-            "Mtwara_Mtwara Municipal Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Mtwara Region",
             "Nanyumbu District Council",
-            "Mtwara_Nanyumbu District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Mtwara Region",
             "Newala District Council",
-            "Mtwara_Newala District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Mtwara Region",
             "Tandahimba District Council",
-            "Mtwara_Tandahimba District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		[
             "Mwanza Region",
             "Ilemela Municipal Council",
-            "Mwanza_Ilemela Municipal Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Mwanza Region",
             "Kwimba District Council",
-            "Mwanza_Kwimba District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Mwanza Region",
             "Magu District Council",
-            "Mwanza_Magu District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Mwanza Region",
             "Misungwi District Council",
-            "Mwanza_Misungwi District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Mwanza Region",
             "Nyamagana Municipal Council",
-            "Mwanza_Nyamagana Municipal Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Mwanza Region",
             "Sengerema District Council",
-            "Mwanza_Sengerema District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Mwanza Region",
             "Ukerewe District Council",
-            "Mwanza_Ukerewe District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		[
             "Njombe Region",
             "Ludewa District Council",
-            "Njombe_Ludewa District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Njombe Region",
             "Makambako Town Council",
-            "Njombe_Makambako Town Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Njombe Region",
             "Makete District Council",
-            "Njombe_Makete District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Njombe Region",
             "Misungwi District Council",
-            "Njombe_Misungwi District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Njombe Region",
             "Njombe District Council",
-            "Njombe_Njombe District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Njombe Region",
             "Njombe Town Council",
-            "Njombe_Njombe Town Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Njombe Region",
             "Wanging'ombe District Council",
-            "Njombe_Wanging'ombe District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		[
             "Pwani Region",
             "Bagamoyo District Council",
-            "Pwani_Bagamoyo District Council.pdf"
+            "<a href='DHP Docs/Bagamoyo DHP New Final November 2013.pdf' class='btn' target='_blank' >Download</a>"
         ],
         [
             "Pwani Region",
             "Kibaha District Council",
-            "Pwani_Kibaha District Council.pdf"
+            "<a href='DHP Docs/Kibaha DC_District_HealthProfiles_Final.pdf' class='btn' target='_blank' >Download</a>"
         ],
         [
             "Pwani Region",
             "Kibaha Town Council",
-            "Pwani_Kibaha Town Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Pwani Region",
             "Kisarawe District Council",
-            "Pwani_Kisarawe District Council.pdf"
+            "<a href='DHP Docs/KISARAWE DISTRICT HEALTH PROFILE 2 FINAL.pdf' class='btn' target='_blank' >Download</a>"
         ],
         [
             "Pwani Region",
             "Mafia District Council",
-            "Pwani_Mafia District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Pwani Region",
             "Mkuranga District Council",
-            "Pwani_Mkuranga District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Pwani Region",
             "Rufiji District Council",
-            "Pwani_Rufiji District Council.pdf"
+            "<a href='DHP Docs/RUFIJI DISRICT HEALTH PROFILE FINAL VERSION.pdf' class='btn' target='_blank' >Download</a>"
         ],
 		[
             "Rukwa Region",
             "Kalambo District Council",
-            "Rukwa_Kalambo District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Rukwa Region",
             "Nkasi District Council",
-            "Rukwa_Nkasi District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Rukwa Region",
             "Sumbawanga District Council",
-            "Rukwa_Sumbawanga District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Rukwa Region",
             "Sumbawanga Municipal Council",
-            "Rukwa_Sumbawanga Municipal Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		[
             "Ruvuma Region",
             "Mbinga District Council",
-            "Ruvuma_Mbinga District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Ruvuma Region",
             "Namtumbo District Council",
-            "Ruvuma_Namtumbo District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Ruvuma Region",
             "Nyasa District Council",
-            "Ruvuma_Nyasa District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Ruvuma Region",
             "Songea District Council",
-            "Ruvuma_Songea District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Ruvuma Region",
             "Songea Municipal Council",
-            "Ruvuma_Songea Municipal Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Ruvuma Region",
             "Tunduru District Council",
-            "Ruvuma_Tunduru District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		[
             "Shinyanga Region",
             "Kahama Town Council",
-            "Shinyanga_Kahama Town Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Shinyanga Region",
             "Kishapu District Council",
-            "Shinyanga_Kishapu District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Shinyanga Region",
             "Msalala District Council",
-            "Shinyanga_Msalala District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Shinyanga Region",
             "Shinyanga District Council",
-            "Shinyanga_Shinyanga District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Shinyanga Region",
             "Shinyanga Municipal Councill",
-            "Shinyanga_Shinyanga Municipal Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Shinyanga Region",
             "Ushetu District Council",
-            "Shinyanga_Ushetu District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		[
             "Simiyu Region",
             "Bariadi District Council",
-            "Simiyu_Bariadi District Council.pdf"
+            "<a href='DHP Docs/Bariadi District Health Profile 2013.pdf' class='btn' target='_blank' >Download</a>"
         ],
         [
             "Simiyu Region",
             "Bariadi Town Council",
-            "Simiyu_Bariadi Town Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Simiyu Region",
             "Busega District Council",
-            "Simiyu_Busega District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
 		"Simiyu Region",
             "Itilima District Council",
-            "Simiyu_Itilima District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Simiyu Region",
             "Maswa District Council",
-            "Simiyu_Maswa District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Simiyu Region",
             "Meatu District Council",
-            "Simiyu_Meatu District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		[
             "Singida Region",
             "Ikungi District Council",
-            "Singida_Ikungi District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Singida Region",
             "Iramba District Council",
-            "Singida_Iramba District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Singida Region",
             "Manyoni District Council",
-            "Singida_Manyoni District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Singida Region",
             "Mkalama District Council",
-            "Singida_Mkalama District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Singida Region",
             "Singida District Council",
-            "Singida_Singida District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Singida Region",
             "Singida Municipal Council",
-            "Singida_Singida Municipal Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		[
             "Tabora Region",
             "Igunga District Council",
-            "Tabora_Igunga District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Tabora Region",
             "Kaliua District Council",
-            "Tabora_Kaliua District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Tabora Region",
             "Nzega District Council",
-            "Tabora_Nzega District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Tabora Region",
             "Sikonge District Council",
-            "Tabora_Sikonge District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Tabora Region",
             "Tabora Municipal Council",
-            "Tabora_Tabora Municipal Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Tabora Region",
             "Urambo District Council",
-            "Tabora_Urambo District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Tabora Region",
             "Uyui District CouncilCouncil",
-            "Tabora_Uyui District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
 		[
             "Tanga Region",
             "Bumbuli District Council",
-            "Tanga_Bumbuli District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Tanga Region",
             "Handeni District Council",
-            "Tanga_Handeni District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Tanga Region",
             "Kilindi District Council",
-            "Tanga_Kilindi District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Tanga Region",
             "Korogwe District Council",
-            "Tanga_Korogwe District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Tanga Region",
             "Korogwe Town Council",
-            "Tanga_Korogwe Town Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Tanga Region",
             "Lushoto District Council",
-            "Tanga_Lushoto District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
         [
             "Tanga Region",
             "Mkinga District Council",
-            "Tanga_Mkinga District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ],
         [
             "Tanga Region",
             "Muheza District Council",
-            "Tanga_Mbozi District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ], 
 		
         [
             "Tanga Region",
             "Pangani District Council",
-            "Tanga_Pangani District Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ] , 
 		
         [
             "Tanga Region",
             "Tanga City Council",
-            "Tanga_Tanga City Council.pdf"
+            "<a href='#DHP Docs/' class='btn' target='_blank' >Not yet</a>"
         ] 
-
-
-
-
-
-
-
-		
-
-
-
-
-
-
-		
-	
-
 
 
   ]
